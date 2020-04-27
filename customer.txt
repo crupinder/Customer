@@ -1,4 +1,3 @@
 public class customer{
  added field
-added field again
 }
